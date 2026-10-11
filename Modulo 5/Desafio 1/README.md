@@ -6,7 +6,7 @@ Criar um modelo dimensional em estrela para analisar professores, disciplinas mi
 
 ## Diagrama visual
 
-![Diagrama estrela da universidade](diagrama_modelo_estrela.svg)
+![Diagrama estrela da universidade](diagrama_modelo_estrela.png)
 
 ## Granularidade da tabela fato
 
